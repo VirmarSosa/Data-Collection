@@ -18,7 +18,7 @@ Automated browsing (with Splinter) was used to visit the Mars news site, and the
 
 The titles and preview text of the news articles were scraped and extracted. 
 
-The scraped information was stored in the specified Python data structure—specifically, a list of dictionaries. (10 points)
+The scraped information was stored in the specified Python data structure—specifically, a list of dictionaries.
 
 
 Part 2: 
